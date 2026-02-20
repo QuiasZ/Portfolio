@@ -1,7 +1,5 @@
 # Portfólio Dev 👨🏻‍💻
 
-![preview](./.github/preview.png)
-
 O site é um portfólio digital voltado para desenvolvedores, projetado para destacar os principais projetos realizados e facilitar o acesso às informações de contato dos profissionais.
 
 
