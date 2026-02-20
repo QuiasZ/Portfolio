@@ -2,12 +2,10 @@
 
 ![preview](./.github/preview.png)
 
-> Formação Full-Stack: Avançando no HTML e CSS: Layout com CSS (desafio prático)
-
 O site é um portfólio digital voltado para desenvolvedores, projetado para destacar os principais projetos realizados e facilitar o acesso às informações de contato dos profissionais.
 
 
-[🔗 Clique aqui para acessar o projeto](https://fel1324.github.io/PortfolioDev/)
+[🔗 Clique aqui para acessar o projeto](https://github.com/QuiasZ/Portfolio.git)
 
 
 ## 🛠️ Tecnologias
@@ -17,10 +15,11 @@ O site é um portfólio digital voltado para desenvolvedores, projetado para des
 - Git e Github
 
 
-## 💚 Contato
+## Contato
 
-rafael.roberto200618@gmail.com
+- **E-mail:** ezequiasss2017@gmail.com
+- **LinkedIn:** [ezequias-santos-serpa](https://www.linkedin.com/in/ezequias-santos-serpa/)
+- **GitHub:** [QuiasZ](https://github.com/QuiasZ)
 
 ---
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com dedicação por **Ezequias Santos**.
